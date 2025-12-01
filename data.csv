@@ -1,0 +1,6 @@
+flight_id,gate_id,scheduled_arrival,scheduled_departure,aircraft_type,tug_required
+FL001,A1,2024-01-01 08:00:00,2024-01-01 09:30:00,Boeing 737,True
+FL002,A2,2024-01-01 08:15:00,2024-01-01 10:00:00,Airbus A320,True
+FL003,B1,2024-01-01 08:30:00,2024-01-01 10:15:00,Boeing 787,True
+FL004,B2,2024-01-01 09:00:00,2024-01-01 11:00:00,Airbus A350,True
+FL005,C1,2024-01-01 09:15:00,2024-01-01 11:30:00,Boeing 777,True
