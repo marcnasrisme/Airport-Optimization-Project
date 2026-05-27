@@ -1,0 +1,17 @@
+# Large raw data (>100MB, not our IP — see README for Kaggle link)
+*.csv
+
+# Gurobi virtualenv
+gurobi12-env/
+
+# Intermediate Gurobi model dumps and input snapshots
+*.lp
+*.pkl
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System
+.DS_Store
